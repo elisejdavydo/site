@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prjects on GitHub</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        h1 {
+            color: #333;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin: 10px 0;
+        }
+        a {
+            text-decoration: none;
+            color: #007bff;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>Prjects on GitHub</h1>
+    <p>My Prjects on GitHub</p>
+    <ul>
+        <li><a href="https://github.com/elisejdavydo/EFT-Rd" target="_blank">EFT-Rd</a> - Проект по Escape from Tarkov</li>
+        <li><a href="https://github.com/elisejdavydo/COD-Black-Ops-6-Rd" target="_blank">COD-Black-Ops-6-Rd</a> - Проект по Call of Duty: Black Ops 6</li>
+        <li><a href="https://github.com/elisejdavydo/Warzone-2-Rd" target="_blank">Warzone-2-Rd</a> - Проект по Warzone 2</li>
+        <li><a href="https://github.com/elisejdavydo/Black-Ops-6-Rd" target="_blank">Black-Ops-6-Rd</a> - Ещё один проект по Black Ops 6</li>
+        <li><a href="https://github.com/elisejdavydo/The-First-Descendant-Rd" target="_blank">The-First-Descendant-Rd</a> - Проект по The First Descendant</li>
+        <li><a href="https://github.com/elisejdavydo/Scum-Rd" target="_blank">Scum-Rd</a> - Проект по Scum</li>
+        <li><a href="https://github.com/elisejdavydo/MW3-Rd" target="_blank">MW3-Rd</a> - Проект по Modern Warfare 3</li>
+        <li><a href="https://github.com/elisejdavydo/Escape-from-Tarkov-Rd" target="_blank">Escape-from-Tarkov-Rd</a> - Ещё один проект по Escape from Tarkov</li>
+        <li><a href="https://github.com/elisejdavydo/The-Finals-Rd" target="_blank">The-Finals-Rd</a> - Проект по The Finals</li>
+        <li><a href="https://github.com/elisejdavydo/R6-Siege-Rd" target="_blank">R6-Siege-Rd</a> - Проект по Rainbow Six Siege</li>
+        <li><a href="https://github.com/elisejdavydo/FragPunk-Rd"
