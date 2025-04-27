@@ -1,15 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://elisejdavydo.github.io/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
-  <url><loc>https://elisejdavydo.github.io/EFT-Rd</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://elisejdavydo.github.io/COD-Black-Ops-6-Rd</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://elisejdavydo.github.io/Warzone-2-Rd</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://elisejdavydo.github.io/Black-Ops-6-Rd</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://elisejdavydo.github.io/The-First-Descendant-Rd</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://elisejdavydo.github.io/Scum-Rd</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://elisejdavydo.github.io/MW3-Rd</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://elisejdavydo.github.io/Escape-from-Tarkov-Rd</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://elisejdavydo.github.io/The-Finals-Rd</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://elisejdavydo.github.io/R6-Siege-Rd</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://elisejdavydo.github.io/FragPunk-Rd</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
+<url>
+<loc>https://elisejdavydo.github.io/site/</loc>
+<lastmod>2025-04-27T08:07:26+00:00</lastmod>
+</url>
 </urlset>
